@@ -21,7 +21,7 @@ The build was compartmentalized into several categories:
 ## Mockup Example
 ![Screenshot 2023-01-07 at 1 52 40 PM](https://user-images.githubusercontent.com/112414393/211697295-efcf2bb0-014f-407c-acf8-89725c2df241.png)
 
-## Code Exmaple
+## Code Example
 <img width="1377" alt="Screenshot 2022-12-19 at 1 34 31 PM" src="https://user-images.githubusercontent.com/112414393/211697324-1f63ef0a-b635-4d5c-8926-246217ebbdb7.png">
 
 ## Resources
