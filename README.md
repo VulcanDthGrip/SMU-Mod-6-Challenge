@@ -22,7 +22,8 @@ The build was compartmentalized into several categories:
 ![Screenshot 2023-01-07 at 1 52 40 PM](https://user-images.githubusercontent.com/112414393/211697295-efcf2bb0-014f-407c-acf8-89725c2df241.png)
 
 ## Code Example
-<img width="1377" alt="Screenshot 2022-12-19 at 1 34 31 PM" src="https://user-images.githubusercontent.com/112414393/211697324-1f63ef0a-b635-4d5c-8926-246217ebbdb7.png">
+![Screenshot 2023-01-10 at 7 20 58 PM](https://user-images.githubusercontent.com/112414393/211697876-bdb1d7d8-0eb3-4c26-81ee-68799ecd21e0.png)
+
 
 ## Resources
 1. Gitlab: https://smu.bootcampcontent.com/SMU-Coding-Bootcamp/SMU-VIRT-FSF-PT-11-2022-U-LOLC/-/tree/main/06-Server-Side-APIs/02-Challenge
