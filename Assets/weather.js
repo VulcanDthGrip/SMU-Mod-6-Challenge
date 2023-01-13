@@ -7,7 +7,6 @@ let currentCity = $("#current-city");
 let currentTemperature = $("#temperature");
 let currentHumidty= $("#humidity");
 let currentWSpeed=$("#wind-speed");
-let currentUvindex= $("#uv-index");
 let sCity=[];
 let city="";
 
@@ -85,16 +84,7 @@ function currentWeather(city){
     });
 }
    
-function UVIndex(ln,lt){
-  
-    const uvqURL="https://api.openweathermap.org/data/2.5/uvi?appid="+ APIKey+"&lat="+lt+"&lon="+ln;
-    $.ajax({
-            url:uvqURL,
-            method:"GET"
-            }).then(function(response){
-                $(currentUvindex).html(response.value);
-            });
-}
+
     
 
 function forecast(cityid){
